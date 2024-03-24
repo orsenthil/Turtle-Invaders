@@ -5,7 +5,7 @@ import turtle
 FRAME_RATE = 30                     # Frames per second
 TIME_FOR_1_FRAME = 1 / FRAME_RATE   # Seconds
 
-CANNON_STEP = 10
+CANNON_STEP = 20
 LASER_LENGTH = 20
 LASER_SPEED = 20
 ALIEN_SPAWN_INTERVAL = 1.2  # seconds
