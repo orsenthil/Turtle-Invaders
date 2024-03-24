@@ -7,6 +7,10 @@ The tutorial can be found
 
 ## Screen Shots
 
+![2024-03-23_18-42](https://github.com/orsenthil/Turtle-Invaders/assets/332330/6a65222f-3035-4d9b-a567-86e4a734aa96)
+
+![2024-03-23_18-42_1](https://github.com/orsenthil/Turtle-Invaders/assets/332330/90ab7f10-9bd6-46ef-82b8-1205e7a58bf5)
+
 
 ## Trivia
 
