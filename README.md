@@ -3,14 +3,14 @@
 A Space Invaders game made with Python and Turtle Graphics.
 
 The [real python tutorial by Stephen Gruppetta](https://realpython.com/build-python-turtle-game-space-invaders-clone/) was followed to  create this game. 
-The tutorial can be found 
 
 ## Commands
 
-Go Left
-Go Right
+`->` Go Left
 
-Use Space To shoot the arrow
+`<-` Go Right
+
+`_`  Use Space To shoot the arrow
   
 ## Screen Shots
 
